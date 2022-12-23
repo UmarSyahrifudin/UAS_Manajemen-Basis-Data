@@ -1,7 +1,7 @@
 
 # UAS Manajemen Basis Data
 
-## Download File Project di : https://drive.google.com/drive/folders/1zJ29raZDevinXkjX7qJVE4klDWPIsIrW?usp=share_link
+## [Link Download File Project di] (https://drive.google.com/drive/folders/1zJ29raZDevinXkjX7qJVE4klDWPIsIrW?usp=share_link)
 
 ## Anggota Kelompok 5
 |NIM|Nama|
@@ -33,6 +33,11 @@
  
 ### Mempersiapkan Aplikasi Fullstack
 - Mendownload source code nya : https://drive.google.com/drive/folders/1zJ29raZDevinXkjX7qJVE4klDWPIsIrW?usp=share_link
+- Setelah Mendownload file project, pada folder backend, terdapat file .env yang berisi link cluster database. Ganti link tersebut dengan link cluster Database yang telah anda buat.
+- Adapun contoh dari link tersebut adalah sebagai berikut :
+```
+mongodb+srv://umarsyahrifudin:<Password anda>@cluster0.yhlotai.mongodb.net/<Nama Collection>?retryWrites=true&w=majority
+```
 - Masuk ke folder 'backend', jalankan **npm install**
 - Masuk ke folder 'frontend', jalankan **npm install**
 
