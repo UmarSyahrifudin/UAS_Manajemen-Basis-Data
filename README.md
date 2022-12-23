@@ -4,8 +4,8 @@
 ## Anggota Kelompok 5
 |NIM|Nama|
 |--|--|
-|1207050|Siti Haerani|
-|1207050|Tito Bastian|
+|1207050121|Siti Haerani|
+|1207050125|Tito Bastian|
 |1207050136|Umar Syahrifudin|
 
 ## [Link video presentasi dan demo CRUD ]
