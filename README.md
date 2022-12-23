@@ -1,7 +1,7 @@
 
 # UAS Manajemen Basis Data
 
-## [Link Download File Project di] (https://drive.google.com/drive/folders/1zJ29raZDevinXkjX7qJVE4klDWPIsIrW?usp=share_link)
+## [Link Download File Project](https://drive.google.com/drive/folders/1zJ29raZDevinXkjX7qJVE4klDWPIsIrW?usp=share_link)
 
 ## Anggota Kelompok 5
 |NIM|Nama|
@@ -32,7 +32,7 @@
 <img width="500" src="https://user-images.githubusercontent.com/106642549/208852376-4a330963-481e-4dda-8cd6-cca7faa62b29.png">
  
 ### Mempersiapkan Aplikasi Fullstack
-- Mendownload source code nya : https://drive.google.com/drive/folders/1zJ29raZDevinXkjX7qJVE4klDWPIsIrW?usp=share_link
+- Download source code nya di : https://drive.google.com/drive/folders/1zJ29raZDevinXkjX7qJVE4klDWPIsIrW?usp=share_link
 - Setelah Mendownload file project, pada folder backend, terdapat file .env yang berisi link cluster database. Ganti link tersebut dengan link cluster Database yang telah anda buat.
 - Adapun contoh dari link tersebut adalah sebagai berikut :
 ```
