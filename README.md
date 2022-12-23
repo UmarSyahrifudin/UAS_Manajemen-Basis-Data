@@ -12,14 +12,14 @@
 
 ## Cara Install / Setup
 
+### NodeJS
+- Link download https://nodejs.org/en/
+
 ### MongoDB
 - Kita memakai mongoDB atlas
 - Link untuk mengakses mongoDB atlas : https://www.mongodb.com/cloud/atlas/register
 
-### NodeJS
-- Link download https://nodejs.org/en/
-
-### Membuat Cluster dan Connect dengan MongoDB Atlas
+### Membuat Cluster Database dan Connect dengan MongoDB Atlas
 - Membuat Cluster
 <img width="500" src="https://user-images.githubusercontent.com/106642549/208851923-a5a91191-825c-4608-9d30-42f62f22616e.png">
 <img width="500" src="https://user-images.githubusercontent.com/106642549/208851932-a6c6ff71-134f-4f97-8a6e-eae91eef6671.png">
@@ -30,8 +30,7 @@
 <img width="500" src="https://user-images.githubusercontent.com/106642549/208852376-4a330963-481e-4dda-8cd6-cca7faa62b29.png">
  
 ### Mempersiapkan Aplikasi Fullstack
-- Mendownload source code nya : https://github.com/UmarSyahrifudin/UAS_Manajemen-Basis-Data
-- Bisa Dengan cara meng clone nya, ketik pada cmd : git clone https://github.com/UmarSyahrifudin/UAS_Manajemen-Basis-Data
+- Mendownload source code nya : https://drive.google.com/drive/folders/1zJ29raZDevinXkjX7qJVE4klDWPIsIrW?usp=share_link
 - Masuk ke folder 'backend', jalankan **npm install**
 - Masuk ke folder 'frontend', jalankan **npm install**
 
