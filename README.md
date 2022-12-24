@@ -10,7 +10,7 @@
 |1207050125|Tito Bastian|
 |1207050136|Umar Syahrifudin|
 
-## [Link video presentasi dan demo CRUD ]
+## [Link video presentasi dan demo CRUD ](https://youtu.be/6lfUUY2B1y8)
 
 ## Cara Install / Setup
 
